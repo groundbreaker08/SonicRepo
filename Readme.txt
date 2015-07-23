@@ -1,1 +1,1 @@
-desc cbridge 1
+desc cbridge-patch 1
